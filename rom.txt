@@ -234,12 +234,14 @@ staging.ai.api.xiaomi.com
 starfish.pandora.xiaomi.com
 stat.pandora.xiaomi.com
 stat.xiaomi.com
+patroller-prod-sgp.g.mi.com
 static.game.xiaomi.com
 static.mibi.xiaomi.com
 storeconfig.mistat.intl.xiaomi.com
 t1.g.mi.com
 tc.hd.xiaomi.com
 tel.fe01.hh.xiaomi.com
+nacos.sgp.pro.mi.com
 test.ad.xiaomi.com
 test.e.ad.xiaomi.com
 test.new.api.ad.xiaomi.com
@@ -297,6 +299,7 @@ www.b.netcheck.gallery.pandora.xiaomi.com
 www.bbs.game.xiaomi.com
 www.be01.hh.xiaomi.com
 www.bgp.fe01.c3.xiaomi.com
+grace-executor-flink-sgp.dt.mi.com
 www.bk01.hh.xiaomi.com
 www.broker.mqtt.pandora.xiaomi.com
 www.bss.pandora.xiaomi.com
@@ -355,6 +358,7 @@ www.info.analysis.kp.sec.miui.com
 www.info.sec.miui.com
 www.iosdl.game.xiaomi.com
 www.jellyfish.pandora.xiaomi.com
+ru-sentinel.kefu.mi.com
 www.lbs.pandora.xiaomi.com
 www.lg-bgp.pandora.xiaomi.com
 www.logonext.tv.kuyun.com
@@ -418,6 +422,7 @@ www.test.e.ad.xiaomi.com
 www.test.new.api.ad.xiaomi.com
 www.tracking.intl.miui.com
 www.tracking.miui.com
+crowd-intl.dt.mi.com
 www.trial.api.huangye.miui.com
 www.tv.app.migc.xiaomi.com
 www.upgrade.mishop.pandora.xiaomi.com
